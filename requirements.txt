@@ -1,0 +1,10 @@
+biopython
+pandas
+numpy
+scikit-learn
+xgboost
+transformers
+streamlit
+shap
+requests
+plotly
